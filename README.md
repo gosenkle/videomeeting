@@ -4,7 +4,9 @@
 > 主要是基于websocket实现STUN服务器，用于实现协议转发，再使用webRTC建立P2P连接，实现音视频连接。
 ### 准备工作
 > `npm install express`
+
 > `npm install express-static`
+
 > `npm install websocket`
 
 ### 现有功能
